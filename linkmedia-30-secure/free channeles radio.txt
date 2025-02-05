@@ -1,0 +1,23 @@
+﻿https://www.internet-radio.com/stations/easy%20listening/ bingo
+
+______________
+
+<audio src="https://nap.casthost.net/proxy/musiclak/stream"
+ autoplay="autoplay" controls="controls"><h4>lake</h4></audio>
+
+______________
+
+
+ <audio src="http://nap.casthost.net:8793/stream"
+ autoplay="autoplay" controls="controls"><h4>nature</h4></audio> 
+ 
+______________
+
+
+	   <audio autoplay="" controls="controls">
+            <source src="https://sgr.lucasmultimedia.com/stream.ogg"><h4>smouthgrouving</h4>
+        </audio>
+	   
+	  
+_______________
+
